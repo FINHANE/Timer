@@ -1,0 +1,24 @@
+
+/*
+Written on Dec 2023/28th
+    FINHANE ARTUR
+*/
+
+body{
+    background: #004;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.timer{
+    font-size: 58px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    padding: 60px;
+    justify-content: center;
+    color: #fff;
+}
